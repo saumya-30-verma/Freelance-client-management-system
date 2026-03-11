@@ -3,6 +3,12 @@
 A modern React-based web application designed to help freelancers manage clients, track payments, and monitor project earnings efficiently.
 This project simulates a real-world freelance workflow where users can add clients, record payments, calculate pending amounts automatically, and store data locally — ensuring information remains saved even after refreshing the browser.
 
+🚀 **Live Demo:**
+
+🌐 **Project is Live Here:**  
+👉 https://freelance-client-management-system.vercel.app/
+
+
 ✨ **Project Overview:**
 
 Freelancers often struggle to keep track of multiple clients, payments, and pending balances.
